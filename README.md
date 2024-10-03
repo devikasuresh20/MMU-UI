@@ -1,3 +1,7 @@
+# ❗❗❗ NOTICE ❗❗❗
+
+A new version of the repository is available here [PSMRI/MMU-UI](https://github.com/PSMRI/MMU-UI)
+
 # AMRIT - Mobile Medical Unit (MMU) Service
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![branch parameter](https://github.com/PSMRI/MMU-UI/actions/workflows/sast-and-package.yml/badge.svg)
